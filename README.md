@@ -1,6 +1,6 @@
 Elder Scrolls V : Skyrim Tweaker Readme [Updated 11:46 AM 09/21/2019]
 
-2011-2019 fallenzeraphine
+2011-2019 Wimukthi Bandara
 
 
 ______________________________
