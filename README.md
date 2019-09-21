@@ -92,6 +92,3 @@ _______________
 * Change over 80 Settings
 * Automatically Detects the settings directory
 [Some Features like Remembering each setting you try out on Combo Boxes are not yet implemented on this initial release]
-
-[MD5 - A815BC6DED9C7CC63BC0A0759FC3D0D9] - Elder Scrolls V Skyrim Tweaker.exe
-[MD5 - 0B157A282D6E45521BE25BD2E6CB4C4E] - IniFile.dll
